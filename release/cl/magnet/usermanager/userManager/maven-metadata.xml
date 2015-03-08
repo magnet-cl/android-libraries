@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cl.magnet.usermanager</groupId>
+  <artifactId>userManager</artifactId>
+  <version>1.0.0</version>
+  <versioning>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20150308212212</lastUpdated>
+  </versioning>
+</metadata>
