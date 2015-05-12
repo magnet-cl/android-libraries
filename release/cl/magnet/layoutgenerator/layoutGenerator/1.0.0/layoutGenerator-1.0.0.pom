@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cl.magnet.layoutgenerator</groupId>
+  <artifactId>layoutGenerator</artifactId>
+  <version>1.0.0</version>
+  <packaging>apk</packaging>
+  <name>Layout Generator</name>
+  <description>Library that works as an outline for dinamic forms</description>
+  <url>https://github.com/magnet-cl/AndroidLayoutGenerator</url>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>strigare</id>
+      <name>Magnet</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:magnet-cl/AndroidLayoutGenerator.git</connection>
+    <developerConnection>scm:git@github.com:magnet-cl/AndroidLayoutGenerator.git</developerConnection>
+    <url>https://github.com/magnet-cl/AndroidLayoutGenerator</url>
+  </scm>
+</project>
